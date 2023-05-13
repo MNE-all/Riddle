@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Riddle</string>
+    <string name="riddle">Загадка</string>
+    <string name="your_answer">Ваш ответ</string>
+    <string name="statistics">Статистика</string>
+    <string name="answer">Ответ</string>
+    <string name="zero_count">0/10</string>
+    <string name="null_riddle">Здесь появится загадка</string>
+    <string name="back">Назад</string>
+    <string name="win_title">Количество правильных ответов</string>
+    <string name="win_percent_title">Процент правильных ответов</string>
+    <string name="zero">0</string>
+    <string name="zero_percent">0,00%</string>
+</resources>
